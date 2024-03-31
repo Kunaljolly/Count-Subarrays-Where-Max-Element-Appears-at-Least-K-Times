@@ -5,7 +5,6 @@ Return the number of subarrays where the maximum element of nums appears at leas
 
 A subarray is a contiguous sequence of elements within an array.
 
- 
 
 Example 1:
 
